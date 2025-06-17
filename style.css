@@ -4,7 +4,6 @@ body {
 
 }
 
-
 h1 {
     color: #17a2b8;
 }
@@ -28,9 +27,4 @@ input:focus {
     box-shadow: none !important;
 }
 
-
-.containerGroup{
-text-align: center;
-margin: 30vh;
-}
 
