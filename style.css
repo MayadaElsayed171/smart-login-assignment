@@ -1,0 +1,36 @@
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+
+h1 {
+    color: #17a2b8;
+}
+
+input.form-control {
+  color: white !important;
+}
+
+
+input, textarea {
+    background-color: transparent !important;
+}
+
+input::placeholder {
+  color: #fff !important;
+}
+
+
+input:focus {
+    border-color: #17a2b8 !important;
+    box-shadow: none !important;
+}
+
+
+.containerGroup{
+text-align: center;
+margin: 30vh;
+}
+
